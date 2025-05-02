@@ -57,3 +57,6 @@ ssh-keyscan github.com >> ~/.ssh/known_hosts
 #### Configuration
 
 - Disable all modules but 'PowerToys Run'
+- Add this extensions:
+
+https://github.com/thejhnsn/PowerToysRun-FirefoxSearch?tab=readme-ov-file
