@@ -48,6 +48,14 @@ ssh-keyscan github.com >> ~/.ssh/known_hosts
 ```
 
 
+### Firefox
+
+#### Extensions
+
+#### New Tab Override
+
+https://addons.mozilla.org/en-GB/firefox/addon/new-tab-override/
+
 ### PowerToys
 
 #### Installation
